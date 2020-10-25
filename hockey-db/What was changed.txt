@@ -1,0 +1,14 @@
+What was changed : 
+
+4 tables added
+
+Isolation level to read committed 
+
+2 working triggers implemented, one that moves a deleted player to the retired players table
+and one that updates the Trophies table with the new Stanley Cup Winner AFTER the new winner has been inserted into the "Stanley Cup Winners" table
+
+1 working function implemented
+
+ER Diagram cardinality updated
+
+
